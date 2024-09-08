@@ -4,5 +4,6 @@ let c = a+b;
 console.log(c);
 let d = 10;
 let e = 5;
+let f = 10;
 
 
